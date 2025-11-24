@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: nav-package
+Version: 0.0.0
+Summary: Navigation client for Minitask 3 autonomous robot
+Home-page: UNKNOWN
+Maintainer: Mouchmaed Intze
+Maintainer-email: lpxmi2@nottingham.ac.uk
+License: Apache-2.0
+Platform: UNKNOWN
+Provides-Extra: test
+License-File: LICENSE
+
+UNKNOWN
+

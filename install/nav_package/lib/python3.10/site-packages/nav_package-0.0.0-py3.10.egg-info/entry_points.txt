@@ -1,0 +1,3 @@
+[console_scripts]
+nav_node = nav_package.nav_node:main
+

@@ -1,0 +1,17 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../../../build/nav_package/nav_package.egg-info/PKG-INFO
+../../../build/nav_package/nav_package.egg-info/SOURCES.txt
+../../../build/nav_package/nav_package.egg-info/dependency_links.txt
+../../../build/nav_package/nav_package.egg-info/entry_points.txt
+../../../build/nav_package/nav_package.egg-info/requires.txt
+../../../build/nav_package/nav_package.egg-info/top_level.txt
+../../../build/nav_package/nav_package.egg-info/zip-safe
+nav_package/__init__.py
+nav_package/nav_node.py
+resource/nav_package
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

@@ -1,0 +1,36 @@
+running egg_info
+creating ../../../build/nav_package/nav_package.egg-info
+writing ../../../build/nav_package/nav_package.egg-info/PKG-INFO
+writing dependency_links to ../../../build/nav_package/nav_package.egg-info/dependency_links.txt
+writing entry points to ../../../build/nav_package/nav_package.egg-info/entry_points.txt
+writing requirements to ../../../build/nav_package/nav_package.egg-info/requires.txt
+writing top-level names to ../../../build/nav_package/nav_package.egg-info/top_level.txt
+writing manifest file '../../../build/nav_package/nav_package.egg-info/SOURCES.txt'
+reading manifest file '../../../build/nav_package/nav_package.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../../build/nav_package/nav_package.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/intzeme/turtlebot3_ws/build/nav_package/build
+creating /home/intzeme/turtlebot3_ws/build/nav_package/build/lib
+creating /home/intzeme/turtlebot3_ws/build/nav_package/build/lib/nav_package
+copying nav_package/__init__.py -> /home/intzeme/turtlebot3_ws/build/nav_package/build/lib/nav_package
+copying nav_package/nav_node.py -> /home/intzeme/turtlebot3_ws/build/nav_package/build/lib/nav_package
+running install
+running install_lib
+creating /home/intzeme/turtlebot3_ws/install/nav_package/lib/python3.10/site-packages/nav_package
+copying /home/intzeme/turtlebot3_ws/build/nav_package/build/lib/nav_package/__init__.py -> /home/intzeme/turtlebot3_ws/install/nav_package/lib/python3.10/site-packages/nav_package
+copying /home/intzeme/turtlebot3_ws/build/nav_package/build/lib/nav_package/nav_node.py -> /home/intzeme/turtlebot3_ws/install/nav_package/lib/python3.10/site-packages/nav_package
+byte-compiling /home/intzeme/turtlebot3_ws/install/nav_package/lib/python3.10/site-packages/nav_package/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/intzeme/turtlebot3_ws/install/nav_package/lib/python3.10/site-packages/nav_package/nav_node.py to nav_node.cpython-310.pyc
+running install_data
+creating /home/intzeme/turtlebot3_ws/install/nav_package/share/ament_index
+creating /home/intzeme/turtlebot3_ws/install/nav_package/share/ament_index/resource_index
+creating /home/intzeme/turtlebot3_ws/install/nav_package/share/ament_index/resource_index/packages
+copying resource/nav_package -> /home/intzeme/turtlebot3_ws/install/nav_package/share/ament_index/resource_index/packages
+copying package.xml -> /home/intzeme/turtlebot3_ws/install/nav_package/share/nav_package
+running install_egg_info
+Copying ../../../build/nav_package/nav_package.egg-info to /home/intzeme/turtlebot3_ws/install/nav_package/lib/python3.10/site-packages/nav_package-0.0.0-py3.10.egg-info
+running install_scripts
+Installing nav_node script to /home/intzeme/turtlebot3_ws/install/nav_package/lib/nav_package
+writing list of installed files to '/home/intzeme/turtlebot3_ws/build/nav_package/install.log'
