@@ -1,0 +1,36 @@
+running egg_info
+creating ../build/eye_package/eye_package.egg-info
+writing ../build/eye_package/eye_package.egg-info/PKG-INFO
+writing dependency_links to ../build/eye_package/eye_package.egg-info/dependency_links.txt
+writing entry points to ../build/eye_package/eye_package.egg-info/entry_points.txt
+writing requirements to ../build/eye_package/eye_package.egg-info/requires.txt
+writing top-level names to ../build/eye_package/eye_package.egg-info/top_level.txt
+writing manifest file '../build/eye_package/eye_package.egg-info/SOURCES.txt'
+reading manifest file '../build/eye_package/eye_package.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/eye_package/eye_package.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/intzeme/turtlebot3_ws/src/build/eye_package/build
+creating /home/intzeme/turtlebot3_ws/src/build/eye_package/build/lib
+creating /home/intzeme/turtlebot3_ws/src/build/eye_package/build/lib/eye_package
+copying eye_package/eye_node.py -> /home/intzeme/turtlebot3_ws/src/build/eye_package/build/lib/eye_package
+copying eye_package/__init__.py -> /home/intzeme/turtlebot3_ws/src/build/eye_package/build/lib/eye_package
+running install
+running install_lib
+creating /home/intzeme/turtlebot3_ws/src/install/eye_package/lib/python3.10/site-packages/eye_package
+copying /home/intzeme/turtlebot3_ws/src/build/eye_package/build/lib/eye_package/eye_node.py -> /home/intzeme/turtlebot3_ws/src/install/eye_package/lib/python3.10/site-packages/eye_package
+copying /home/intzeme/turtlebot3_ws/src/build/eye_package/build/lib/eye_package/__init__.py -> /home/intzeme/turtlebot3_ws/src/install/eye_package/lib/python3.10/site-packages/eye_package
+byte-compiling /home/intzeme/turtlebot3_ws/src/install/eye_package/lib/python3.10/site-packages/eye_package/eye_node.py to eye_node.cpython-310.pyc
+byte-compiling /home/intzeme/turtlebot3_ws/src/install/eye_package/lib/python3.10/site-packages/eye_package/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/intzeme/turtlebot3_ws/src/install/eye_package/share/ament_index
+creating /home/intzeme/turtlebot3_ws/src/install/eye_package/share/ament_index/resource_index
+creating /home/intzeme/turtlebot3_ws/src/install/eye_package/share/ament_index/resource_index/packages
+copying resource/eye_package -> /home/intzeme/turtlebot3_ws/src/install/eye_package/share/ament_index/resource_index/packages
+copying package.xml -> /home/intzeme/turtlebot3_ws/src/install/eye_package/share/eye_package
+running install_egg_info
+Copying ../build/eye_package/eye_package.egg-info to /home/intzeme/turtlebot3_ws/src/install/eye_package/lib/python3.10/site-packages/eye_package-0.0.0-py3.10.egg-info
+running install_scripts
+Installing eye_node script to /home/intzeme/turtlebot3_ws/src/install/eye_package/lib/eye_package
+writing list of installed files to '/home/intzeme/turtlebot3_ws/src/build/eye_package/install.log'
